@@ -1,3 +1,4 @@
+#Coffee-Shop-Sales-Analysi
 This Excel project provides a data analysis dashboard to understand customer behavior and optimize operations for coffee shops.
 
 #Features:
